@@ -1,30 +1,29 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+| [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is where I bring data to life through compelling visualizations and insightful narratives. Here, you'll find my best work that illustrates my skills in transforming complex data into engaging stories.
+Dive in and discover how I can help you make data-driven decisions!
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+I am a data enthusiast pursuing my Master’s in Business Intelligence and Data Analytics at Carnegie Mellon University. With expertise in Python, Java, SQL, and data visualization tools like Power BI, I specialize in transforming raw data into compelling stories. My experience includes developing software products and services using scalable data pipelines, implementing machine learning models, and automating processes for efficiency.
+
+I am passionate about leveraging data to drive informed decisions and welcome opportunities to collaborate and innovate in the data science field.
+For more info please visit my [LinkedIn](https://www.linkedin.com/in/aditya-kolpe/)
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Understanding the principles of effective data visualization
+- Mastering tools for data storytelling (e.g., Tableau, Power BI)
+- Techniques for transforming raw data into compelling narratives
+- Analyzing audience needs to tailor data presentations
+- Best practices for designing intuitive and engaging dashboards
+- Enhancing storytelling skills through visual elements and design
+- Using data analytics to support decision-making processes
+- Learning about ethical considerations in data representation
+- Exploring case studies of successful data storytelling
+- Gaining insights on presenting complex data simply and clearly
 
 # Portfolio
 
