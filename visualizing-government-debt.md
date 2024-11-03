@@ -35,7 +35,7 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
   <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1730653963440');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
-    vizElement.style.width='150%';
+    vizElement.style.width='100%';
     vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
@@ -49,7 +49,7 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1730654339732');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='100%';
+  vizElement.style.width='120%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
@@ -64,12 +64,13 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1730676794291');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='150%';
+  vizElement.style.width='120%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 
 In this assignment, I explored various data visualization methods using both online tools and Tableau. Each method provided distinct ways of representing data, and each had unique advantages and limitations depending on the data’s complexity and the message I aimed to convey. Online tools generally offer quick and intuitive ways to create basic visualizations, like bar charts, line graphs, and scatter plots. These tools often automate data aggregation and formatting, making them accessible for beginners or for quickly visualizing straightforward datasets. Tableau, on the other hand, is more powerful and flexible, especially useful when working with large datasets or when creating multi-dimensional visualizations that require more customization and control over details. Tableau allows for interactive dashboards and advanced calculations, making it ideal for exploring complex relationships within the data.
 
