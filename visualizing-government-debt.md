@@ -56,13 +56,7 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-## Part three: create your own visualization
-
-_Create another data visualization using the same data used earlier. DO NOT submit something that's just a minor modification of one of the visualizations already covered here. So, don't just modify the colors or labels of one of the earlier examples and call it good, or submit a slightly modified bar chart.  Instead, see what you can come up with on your own, and spend some time to try and create something that tells a story about the data._
-
-_Summarize in a paragraph or two about the different methods of visualization, and how they compare / contrast to one another. Make sure you include all source information and explain the data well.  Talk about why you chose the third data visualization.  Be specific - keep your writeup relevant to the assignment, and avoid jargon-filled language that doesn't say anything useful._
-
-_It's a good idea to go back and review your work.  Could someone follow your process and understand what you did?  Do you need to further connect any of the sections with a bit of text?  Is it something you'd be happy to have as an example of your work from the class?_
+## Part three: Creating a Unique Vizualization which tells a story
 
 ### Debt-to-GDP Percentage Contribution per Country
 
@@ -77,4 +71,6 @@ _It's a good idea to go back and review your work.  Could someone follow your pr
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+In this assignment, I explored various data visualization methods using both online tools and Tableau. Each method provided distinct ways of representing data, and each had unique advantages and limitations depending on the data’s complexity and the message I aimed to convey. Online tools generally offer quick and intuitive ways to create basic visualizations, like bar charts, line graphs, and scatter plots. These tools often automate data aggregation and formatting, making them accessible for beginners or for quickly visualizing straightforward datasets. Tableau, on the other hand, is more powerful and flexible, especially useful when working with large datasets or when creating multi-dimensional visualizations that require more customization and control over details. Tableau allows for interactive dashboards and advanced calculations, making it ideal for exploring complex relationships within the data.
 
+In the third visualization, I calculated each country's percentage contribution to the global debt-to-GDP ratio and displayed it using stacked bar charts. This approach shows each country’s share of global debt over time, with color highlighting for countries contributing over 5%. I chose standard stacked bars over 100% stacked bars, as the total debt-to-GDP fluctuates yearly, making the standard format more effective for observing both absolute and relative changes.
