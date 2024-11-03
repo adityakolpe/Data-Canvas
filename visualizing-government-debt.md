@@ -49,7 +49,7 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1730654339732');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='120%';
+  vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
@@ -64,7 +64,7 @@ I selected "General government debt" for the debt-to-GDP ratio, reviewed the cha
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1730676794291');                    
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  vizElement.style.width='120%';
+  vizElement.style.width='100%';
   vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
   var scriptElement = document.createElement('script');                    
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
