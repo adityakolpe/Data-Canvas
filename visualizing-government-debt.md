@@ -8,7 +8,7 @@ _As before, this template provides some of the structure you should have for you
 ## Part one: Working with web-based visualization tools and data
 
 _Include your visualization, and introduce us to what you did._
-<img src="GDP2020.png" width="200"/>
+<img src="GDP2020.png"/>
 > Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2020">oecd.org</a>
 
 ## Working with Tableau
