@@ -1,15 +1,13 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
-
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
+# Vizualizing Debt
 
 ## Part one: Working with web-based visualization tools and data
 
-_Include your visualization, and introduce us to what you did._
 <img src="GDP2020.png"/>
 > Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html?oecdcontrol-3122613a85-var3=2020">oecd.org</a>
+
+I selected "General government debt" for the debt-to-GDP ratio, reviewed the chart, and highlighted a few countries. I adjusted the slider to view data for one year at a time and experimented with recent years with good data coverage. Then, I downloaded the chart as a .png and .csv, saved the .png to my repository, added it to my portfolio page, and confirmed it displayed correctly on my webpage.
 
 ## Working with Tableau
 
