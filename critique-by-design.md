@@ -9,7 +9,12 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 
-_Include link to the original data visualization (or screenshot - make sure to correctly cite your sources, etc.).  Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+I selected [Liam's NYC Slice data visualization](https://elkue.com/nyc-slice/) because of my genuine interest in pizza and my constant quest to find affordable yet delicious pizza spots. This visualization offers an engaging way to explore various pizza options across New York City, highlighting locations, prices, and other useful information. 
+
+Beyond my personal love for pizza, I appreciate how this visualization simplifies the search for budget-friendly pizza places. It makes the data accessible and fun, allowing users to compare options at a glance, which aligns perfectly with my goal of discovering great pizza at reasonable prices.
+
+![image](https://github.com/user-attachments/assets/da5c0fbf-92c8-4bed-9b26-115bf277ca58)
+![image](https://github.com/user-attachments/assets/f48a6fdd-fec6-4ebe-a23e-3f8a601ba8cf)
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
