@@ -29,6 +29,9 @@ I would add a year filter so that I can look at the latest prices and choose a s
 
 I initially sketched a bar chart visualization to show the popularity of different pizza places in NYC based. My goal was to highlight the most affordable spots people were talking about, with higher bars indicating more pocket-friendly. After creating the chart, I showed it to a few friends, hoping it would clearly communicate which places were most recommended. However, they found it confusing, as the bars alone didn’t convey the location or the price pizza. The visualization didn’t fully capture what I wanted to convey.
 
+![image](https://github.com/user-attachments/assets/111cbbbf-cc13-421d-b99e-41896078e91b)
+
+
 ## Step four: Test the solution
 
 Questions: 
