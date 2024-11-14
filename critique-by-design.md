@@ -1,11 +1,6 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+# Liam's Guide to Find Affordable Pizza Slice in NYC
 
 ## Step one: the visualization
 
@@ -27,15 +22,16 @@ Primary audience are the people who love pizza (like me and Joey from friends). 
 Anything missing?
 I would add a year filter so that I can look at the latest prices and choose a shop to actually go have pizza there. I would also include a trends plot which would tell us the price trend of a slice of pizza at that particular place over the years. 
 
+![image](https://github.com/user-attachments/assets/1831eb58-0421-4495-a000-d1051ad6b740)
+
+
 ## Step three: Sketch a solution
 
 I initially sketched a bar chart visualization to show the popularity of different pizza places in NYC based. My goal was to highlight the most affordable spots people were talking about, with higher bars indicating more pocket-friendly. After creating the chart, I showed it to a few friends, hoping it would clearly communicate which places were most recommended. However, they found it confusing, as the bars alone didn’t convey the location or the price pizza. The visualization didn’t fully capture what I wanted to convey.
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
+Questions: 
 
 - Can you tell me what you think this is?
 
@@ -49,9 +45,6 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
 |Can you tell me what you think this is? | Its a data visualization of pizza price variations in NYC | Pizza price documentation |
@@ -62,11 +55,13 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+From the feedback, a few patterns emerge around clarity, interactivity, and the information users value most. Both interviewees understood that the visualization was about pizza prices in NYC, but their interpretations varied slightly, suggesting that the main takeaway could be clarified. One respondent mentioned wanting to see the latest prices, while the other found location visibility to be an issue, indicating that both recent data and clear location markers are important to the audience. 
+
+From this feedback, I learned that while the overall purpose of the visualization is understood, enhancing specific details like recent price information and visible location markers would make it more useful. Users seem interested in current data and precise location details, which indicates that focusing on these aspects will improve usability.
+
+For the final redesign, I’ll prioritize displaying updated prices more prominently, perhaps adding a filter for users to view the latest prices specifically. I’ll also enhance the map section, ensuring that each pizza place’s location is clearly marked and easy to spot at a glance. Adding tooltips or labels for each location could further aid users in quickly identifying places without having to explore each point individually. Together, these changes should create a more intuitive and informative experience for pizza enthusiasts looking for affordable options in NYC.
 
 ## Step five: build the solution
-
-_Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 <div class='tableauPlaceholder' id='viz1731550776254' style='position: relative'><noscript><a href='#'><img alt='Liam&#39;s Guide to Find Affordable Pizza Slice in NYCClick on a Pizza Place Name or Select a year to filter ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;LiamsGuidetoFindCheapPizzaSliceinNYC&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='LiamsGuidetoFindCheapPizzaSliceinNYC&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;LiamsGuidetoFindCheapPizzaSliceinNYC&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
@@ -80,6 +75,9 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+
 
 I began by attempting to replicate the original visualization displayed on the website, aiming to match its design and structure. Once I achieved a similar layout, I decided to adjust the color scheme to make the pricing data more intuitive: higher prices were set to appear in red, while lower prices were shown in blue. This color coding helped make affordability stand out visually. 
 
