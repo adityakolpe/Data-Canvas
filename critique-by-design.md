@@ -29,6 +29,8 @@ I would add a year filter so that I can look at the latest prices and choose a s
 
 ## Step three: Sketch a solution
 
+I initially sketched a bar chart visualization to show the popularity of different pizza places in NYC based. My goal was to highlight the most affordable spots people were talking about, with higher bars indicating more pocket-friendly. After creating the chart, I showed it to a few friends, hoping it would clearly communicate which places were most recommended. However, they found it confusing, as the bars alone didn’t convey the location or the price pizza. The visualization didn’t fully capture what I wanted to convey.
+
 ## Step four: Test the solution
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
@@ -52,9 +54,11 @@ _Don't identify or share personally identifiable information (PII) about the peo
 
 | Question | Interview 1 | Interview 2 |
 |----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
+|Can you tell me what you think this is? | Its a data visualization of pizza price variations in NYC | Pizza price documentation |
+|Can you describe to me what this is telling you? | Trend of price changes for 2 types of pizzas - plain and pepperoni. | Pizza prices at different shops in NYC - lower to higher |
+|Is there anything you find surprising or confusing? | No not really, could understand once I dragged points across the map | Nothing surprising or confusing |
+|Who do you think is the intended audience for this? | Pizza lovers/ tourists finding a cheap pizza place in the city | Pizza lovers |
+|Is there anything you would change or do differently? | Location is not visible | Would like to see latest prices |
 
 Synthesis: 
 
@@ -76,3 +80,11 @@ _Include and describe your final solution here. It's also a good idea to summari
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+I began by attempting to replicate the original visualization displayed on the website, aiming to match its design and structure. Once I achieved a similar layout, I decided to adjust the color scheme to make the pricing data more intuitive: higher prices were set to appear in red, while lower prices were shown in blue. This color coding helped make affordability stand out visually. 
+
+Exploring further, I experimented with additional visualizations, including line plots to capture price trends over time for each pizza place. I also created a new sheet displaying a sorted table of store names and prices, with the most affordable options at the top. To enhance interactivity, I tried adding a year filter that would synchronize across all sheets, though I encountered some challenges with getting the filter to apply uniformly.
+
+Next, I designed a dashboard incorporating three sheets: the map view, the table of names and prices, and the trend line plot. I enabled interactive filtering so that selecting any element in one sheet would update the others accordingly. I also attempted to set up an action that would filter all sheets simultaneously by year but encountered some technical issues. As a workaround, I set the year filter on one sheet to impact another related plot.
+
+In the final stages, I rearranged the dashboard for ease of use. The table with names and prices was placed prominently to make it easy to identify affordable options, and I ensured that clicking on a store name would filter the trend line and map view. This setup allows users to view the price trends of a selected pizza place over time, see its location on the map, and get a clear price comparison in the table. With this dashboard, users have all the essential information they need to plan their next pizza outing effectively.
