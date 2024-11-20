@@ -14,10 +14,10 @@ Our story emphasizes the interplay of personal health choices and environmental 
 Project Structure
 
 Introduction: 
-Framing the Story
-Purpose: Introduce the project’s goal of identifying leading factors of heart disease.
-Relevance: Highlight the rising global burden of cardiovascular diseases and the importance of lifestyle modifications.
-Data Context: Brief overview of the dataset, including its scope (states, demographics, and health metrics) and limitations.
+Framing the Story<br>
+Purpose: Introduce the project’s goal of identifying leading factors of heart disease.<br>
+Relevance: Highlight the rising global burden of cardiovascular diseases and the importance of lifestyle modifications.<br>
+Data Context: Brief overview of the dataset, including its scope (states, demographics, and health metrics) and limitations.<br>
 
 Part 1: Setting the Stage
 Exploratory Analysis:
