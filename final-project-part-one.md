@@ -12,7 +12,9 @@ Our story emphasizes the interplay of personal health choices and environmental 
 2. Differences in risk profiles across demographic and lifestyle categories.
 
 Project Structure
-Introduction: Framing the Story
+
+Introduction: 
+Framing the Story
 Purpose: Introduce the project’s goal of identifying leading factors of heart disease.
 Relevance: Highlight the rising global burden of cardiovascular diseases and the importance of lifestyle modifications.
 Data Context: Brief overview of the dataset, including its scope (states, demographics, and health metrics) and limitations.
