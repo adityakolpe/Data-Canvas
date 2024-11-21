@@ -104,9 +104,9 @@ We will use this dataset to build visualizations that explore:<br>
 
 | Name | URL | Description |
 |------|-----|-------------|
-|Indicators of Heart Disease (2022 UPDATE)|https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data|Publicly Accessible, 445k rows, 40 cols. Details about heart diseases, lifestyle, demographics|
-|Heart Disease Risk Factors|https://www.cdc.gov/heart-disease/risk-factors/index.html|Information about major factors affecting heart diseases|
-|A Dynamic Visualization Tool of Local Trends in Heart Disease and Stroke Mortality in the United States|https://www.cdc.gov/pcd/issues/2022/22_0076.htm|Visualizations by the Government about Heart Diseases across the country|
+|Indicators of Heart Disease (2022 UPDATE)|[https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data)|Publicly Accessible, 445k rows, 40 cols. Details about heart diseases, lifestyle, demographics|
+|Heart Disease Risk Factors|[https://www.cdc.gov/heart-disease/risk-factors/index.html](https://www.cdc.gov/heart-disease/risk-factors/index.html)|Information about major factors affecting heart diseases|
+|A Dynamic Visualization Tool of Local Trends in Heart Disease and Stroke Mortality in the United States|[https://www.cdc.gov/pcd/issues/2022/22_0076.htm](https://www.cdc.gov/pcd/issues/2022/22_0076.htm)|Visualizations by the Government about Heart Diseases across the country|
 
 # Method and medium <br>
 We will utilize Tableau as the primary tool for creating interactive visualizations. Tableau's capabilities allow us to effectively analyze and showcase patterns in the data through dynamic visual storytelling. We will focus on integrating key features from the dataset, such as BMI, weight, and demographics, to highlight their correlation with heart disease.<br>
