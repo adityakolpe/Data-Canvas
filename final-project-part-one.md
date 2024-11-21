@@ -52,10 +52,43 @@ Visualizations: Sankey diagrams or decision trees mapping pathways to heart dise
 User Story:<br>
 As an individual, I want actionable recommendations to reduce my risk of heart disease.<br>
 
-## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+## Initial sketches <br>
 
-Text here...
+<div class='tableauPlaceholder' id='viz1732153520978' style='position: relative'><noscript><a href='#'><img alt='Males are slightly more at risk of a Heart Disease than Women - USA 2022 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MalesareslightlymoreatriskofHeartDiseasethanWomen-USA2022&#47;Gender&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MalesareslightlymoreatriskofHeartDiseasethanWomen-USA2022&#47;Gender' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ma&#47;MalesareslightlymoreatriskofHeartDiseasethanWomen-USA2022&#47;Gender&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1732153520978');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<br>
+<br>
+<div class='tableauPlaceholder' id='viz1732153600857' style='position: relative'><noscript><a href='#'><img alt='Being a Smoker Increases the Chances of Heart Disease by x2Ratio of smokers with Heart Diseases to smokers with no Heart Disease is almost twice as much as that of non-smokers ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BeingaSmokerIncreasestheChancesofHeartDiseasebyx2&#47;Smoker&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BeingaSmokerIncreasestheChancesofHeartDiseasebyx2&#47;Smoker' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Be&#47;BeingaSmokerIncreasestheChancesofHeartDiseasebyx2&#47;Smoker&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1732153600857');                   
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<br>
+<br>
+<div class='tableauPlaceholder' id='viz1732153783144' style='position: relative'><noscript><a href='#'><img alt='Chances of Heart Disease Increases if No ExerciseRatio of people with a heart disease to people with no heart disease is more if there is no physical exercise ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;ChancesofHeartDiseaseIncreasesifNoExercise&#47;Exercise&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='ChancesofHeartDiseaseIncreasesifNoExercise&#47;Exercise' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ch&#47;ChancesofHeartDiseaseIncreasesifNoExercise&#47;Exercise&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1732153783144');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
 
 # The data
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
