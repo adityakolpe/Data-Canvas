@@ -1,6 +1,6 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Leading Factors of Heart Disease Based on Age and Lifestyle
+# Leading Factors of Heart Disease - USA 2022
 
 ## Outline
 
