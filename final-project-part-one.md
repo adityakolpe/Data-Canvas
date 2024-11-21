@@ -87,21 +87,20 @@ As an individual, I want actionable recommendations to reduce my risk of heart d
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-
+<br>
 
 ## The data
 Our primary data source for this project is the Personal Key Indicators of Heart Disease dataset, available on Kaggle. This dataset offers a wealth of information, making it a valuable resource for analyzing lifestyle, demographic, and health factors contributing to heart disease. It contains over 445,000 records of self-reported survey responses, capturing diverse health indicators such as physical activity, sleep patterns, smoking habits, and personal medical history.
 
 The dataset is highly suitable for our project as it provides insights into the correlation between various personal and lifestyle factors and the prevalence of heart disease across different demographic groups. Each record contains 40 variables, offering a granular view of health conditions and habits, including heart-related issues such as heart attack, angina, and stroke. By leveraging this data, we aim to uncover key trends and leading factors influencing heart disease, segmented by age, lifestyle, and other characteristics.
-
+<br>
 ### How I Plan to Use the Data
-We will use this dataset to build visualizations that explore:
+We will use this dataset to build visualizations that explore:<br>
 
-**1. Prevalence of Heart Disease**: Analyzing the distribution of individuals with heart disease across different age groups, genders, and races.
-**2. Key Risk Factors**: Investigating the relationships between heart disease and factors like smoking, physical inactivity, sleep patterns, and co-existing medical conditions (e.g., diabetes, arthritis, or kidney disease).
-**3. Lifestyle Patterns**: Examining how lifestyle choices, such as alcohol consumption, physical activity, and sleep duration, influence heart health.
-**4. Demographic Trends**: Highlighting disparities in heart disease prevalence among demographic groups, including race, gender, and socioeconomic categories.
+**1. Prevalence of Heart Disease**: Analyzing the distribution of individuals with heart disease across different age groups, genders, and races.<br>
+**2. Key Risk Factors**: Investigating the relationships between heart disease and factors like smoking, physical inactivity, sleep patterns, and co-existing medical conditions (e.g., diabetes, arthritis, or kidney disease).<br>
+**3. Lifestyle Patterns**: Examining how lifestyle choices, such as alcohol consumption, physical activity, and sleep duration, influence heart health.<br>
+**4. Demographic Trends**: Highlighting disparities in heart disease prevalence among demographic groups, including race, gender, and socioeconomic categories.<br>
 
 | Name | URL | Description |
 |------|-----|-------------|
@@ -109,7 +108,17 @@ We will use this dataset to build visualizations that explore:
 |Heart Disease Risk Factors|https://www.cdc.gov/heart-disease/risk-factors/index.html|Information about major factors affecting heart diseases|
 |A Dynamic Visualization Tool of Local Trends in Heart Disease and Stroke Mortality in the United States|https://www.cdc.gov/pcd/issues/2022/22_0076.htm|Visualizations by the Government about Heart Diseases across the country|
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+# Method and medium <br>
+We will utilize Tableau as the primary tool for creating interactive visualizations. Tableau's capabilities allow us to effectively analyze and showcase patterns in the data through dynamic visual storytelling. We will focus on integrating key features from the dataset, such as BMI, weight, and demographics, to highlight their correlation with heart disease.<br>
 
-Text here...
+Our approach involves the following steps:<br>
+
+**1. Initial Analysis and Visualization**:<br>
+ - Create basic visualizations for features like age, gender, BMI, and smoking status to explore general trends and patterns.<br>
+ - Identify outliers, clusters, or unique points in the data that merit further investigation.<br>
+**2. Pattern Recognition and In-Depth Analysis**:<br>
+ - Analyze relationships between multiple factors (e.g., the interplay of physical activity, sleep, and heart disease).<br>
+ - Use advanced Tableau features like filters, calculated fields, and parameters to drill down into specific subgroups for deeper insights.<br>
+**3. Storytelling**:<br>
+ - Structure the findings into a cohesive narrative using Tableau dashboards and stories.<br>
+ - Include interactive elements to guide the audience through the data journey, emphasizing key takeaways and actionable insights.<br>
