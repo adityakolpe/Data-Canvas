@@ -116,9 +116,11 @@ Our approach involves the following steps:<br>
 **1. Initial Analysis and Visualization**:<br>
  - Create basic visualizations for features like age, gender, BMI, and smoking status to explore general trends and patterns.<br>
  - Identify outliers, clusters, or unique points in the data that merit further investigation.<br>
+ 
 **2. Pattern Recognition and In-Depth Analysis**:<br>
  - Analyze relationships between multiple factors (e.g., the interplay of physical activity, sleep, and heart disease).<br>
  - Use advanced Tableau features like filters, calculated fields, and parameters to drill down into specific subgroups for deeper insights.<br>
+
 **3. Storytelling**:<br>
  - Structure the findings into a cohesive narrative using Tableau dashboards and stories.<br>
  - Include interactive elements to guide the audience through the data journey, emphasizing key takeaways and actionable insights.<br>
