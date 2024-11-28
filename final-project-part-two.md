@@ -43,7 +43,7 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 
 | Did the presentation evoke any emotions or motivate you to think differently about smoking and its effects? If so, how? | Yes, because of direct correlation of smoking and health effects, it made me realize again that smoking is harmful to health and that no person should smoke. | I feel like the presentation was effective in making me feel that smoking is extremely dangerous for my health | Yes, it reinforced how damaging smoking can be and motivated me to appreciate smoke-free environments. |
 
-| What suggestions do you have to improve the presentation or make the story more compelling and actionable? | Include more visualization to make the story more compelling.| I would suggest that you add a few feedbacks or reviews that people have given regarding smoking to make it more personalised. | Adding personal stories or testimonials could make it more engaging and impactful.|
+| What suggestions do you have to improve the presentation or make the story more compelling and actionable? | Include more visualization to make the story more compelling. | I would suggest that you add a few feedbacks or reviews that people have given regarding smoking to make it more personalised. | Adding personal stories or testimonials could make it more engaging and impactful. |
 
 <br/>
 # Identified changes for Part III <br/>
