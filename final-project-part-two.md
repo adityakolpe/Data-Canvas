@@ -47,6 +47,7 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 # Identified changes for Part III
 
 <br/>
+
 | Research synthesis                                                                 | Anticipated changes for Part III                                                                              |
 |------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | Visualizations were generally clear, but users highlighted the impact of certain visuals, particularly the one on heart rate. | Add annotations and callouts to emphasize key insights in the heart rate and cholesterol visuals.             |
