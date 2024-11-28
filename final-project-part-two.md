@@ -22,13 +22,14 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 
 ## Interview script <br/>
 
-| Goal | Questions to Ask |
-|-------------------------|--------------------------------|
-| Assess the clarity and impact of the visualizations | Do you find the visualizations clear and easy to understand? Which one stood out the most and why? |
-| Evaluate how well the story flows from one point to another | Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt? |
+| Goal                                         | Questions to Ask                                                                                                   |
+|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| Assess the clarity and impact of the visualizations | Do you find the visualizations clear and easy to understand? Which one stood out the most and why?                   |
+| Evaluate how well the story flows from one point to another | Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt?        |
 | Determine if the story effectively highlights the key message | Do you feel the story effectively conveys the dangers of smoking and its impact on heart health? What part of the story was most impactful? |
 | Gather feedback on emotional and motivational appeal | Did the presentation evoke any emotions or motivate you to think differently about smoking and its effects? If so, how? |
-| Collect suggestions for improvement | What suggestions do you have to improve the presentation or make the story more compelling and actionable? |
+| Collect suggestions for improvement          | What suggestions do you have to improve the presentation or make the story more compelling and actionable?           |
+
 <br/>
 
 ## Interview findings <br/>
@@ -46,14 +47,14 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 # Identified changes for Part III
 
 <br/>
+| Research synthesis                                                                 | Anticipated changes for Part III                                                                              |
+|------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| Visualizations were generally clear, but users highlighted the impact of certain visuals, particularly the one on heart rate. | Add annotations and callouts to emphasize key insights in the heart rate and cholesterol visuals.             |
+| Users appreciated the flow of the story but felt the story could be shorter to maintain engagement.                        | Condense the narrative by focusing on the most impactful sections and trimming redundant content.             |
+| Users suggested incorporating personal stories or testimonials to make the story more relatable and engaging.              | Include quotes, testimonials, or brief case studies that reflect real experiences related to smoking and its health impacts. |
+| More visualizations were requested to deepen engagement and provide additional context.                                    | Introduce a comparison visualization showing health improvements after quitting smoking to offer a positive resolution. |
+| The call to action could be stronger to motivate change.                                                                  | Create a dedicated conclusion slide with actionable steps, resources for quitting smoking, and support hotlines. |
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Visualizations were generally clear, but users highlighted the impact of certain visuals, particularly the one on heart rate. | Add annotations and callouts to emphasize key insights in the heart rate and cholesterol visuals. |
-| Users appreciated the flow of the story but felt the story could be shorter to maintain engagement. | Condense the narrative by focusing on the most impactful sections and trimming redundant content.|
-| Users suggested incorporating personal stories or testimonials to make the story more relatable and engaging. | Include quotes, testimonials, or brief case studies that reflect real experiences related to smoking and its health impacts. |
-| More visualizations were requested to deepen engagement and provide additional context. | Introduce a comparison visualization showing health improvements after quitting smoking to offer a positive resolution. |
-| The call to action could be stronger to motivate change. | Create a dedicated conclusion slide with actionable steps, resources for quitting smoking, and support hotlines. |
 <br/>
 
 
