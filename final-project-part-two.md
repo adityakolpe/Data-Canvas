@@ -1,15 +1,13 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 <br/>
-# Ashes to Arteries <br/> 
-## How Smoking Takes a Toll on Your Heart <br/>
+# Ashes to Arteries 
+## How Smoking Takes a Toll on Your Heart
 
 Please check out my [Shorthand](https://preview.shorthand.com/vu8hdHDRmzgadAs8) preview. <br/>
 The work is in progress and future work (to be done for part III has been mentioned towards the end)<br/>
 
-# User research <br/>
-<br/>
-## Target audience <br/>
-<br/>
+# User research 
+## Target audience 
 **Major audience**:<br/>
 **Smokers and At-Risk Individuals**: <br/>
 Current smokers and those exposed to secondhand smoke are central to this narrative. Personalizing data through relatable stories and emphasizing the immediate health benefits of quitting will foster engagement and motivation.
@@ -25,7 +23,6 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 ## Interview script <br/>
 
 | Goal | Questions to Ask |
-|------|------------------|
 |Assess the clarity and impact of the visualizations|Do you find the visualizations clear and easy to understand? Which one stood out the most and why?|
 |Evaluate how well the story flows from one point to another|Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt?|
 |Determine if the story effectively highlights the key message|Do you feel the story effectively conveys the dangers of smoking and its impact on heart health? What part of the story was most impactful?|
