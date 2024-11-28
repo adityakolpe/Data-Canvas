@@ -23,6 +23,7 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 ## Interview script <br/>
 
 | Goal | Questions to Ask |
+|-------------------------|--------------------------------|
 | Assess the clarity and impact of the visualizations | Do you find the visualizations clear and easy to understand? Which one stood out the most and why? |
 | Evaluate how well the story flows from one point to another | Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt? |
 | Determine if the story effectively highlights the key message | Do you feel the story effectively conveys the dangers of smoking and its impact on heart health? What part of the story was most impactful? |
