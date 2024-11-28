@@ -42,7 +42,10 @@ Doctors, nurses, and health educators play a critical role in guiding patients t
 | What suggestions do you have to improve the presentation or make the story more compelling and actionable? | Include more visualizations to make the story more compelling.                | Add feedback or reviews from people regarding smoking to make it more personalized. | Adding personal stories or testimonials could make it more engaging and impactful. |
 
 <br/>
-# Identified changes for Part III <br/>
+
+# Identified changes for Part III
+
+<br/>
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
