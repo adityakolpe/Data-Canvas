@@ -12,11 +12,12 @@ The work is in progress and future work (to be done for part III has been mentio
 **Smokers and At-Risk Individuals**: <br/>
 Current smokers and those exposed to secondhand smoke are central to this narrative. Personalizing data through relatable stories and emphasizing the immediate health benefits of quitting will foster engagement and motivation.
 <br/>
-Additional audience:<br/>
-Public Health Officials and Policymakers: <br/>
+<br/>
+**Additional audience**:<br/>
+**Public Health Officials and Policymakers**: <br/>
 These individuals are key decision-makers who can implement anti-smoking legislation, fund public health campaigns, and allocate resources for cessation programs. Highlighting statistical trends and health outcomes will underscore the urgency of continued policy support.<br/>
 <br/>
-Healthcare Professionals: <br/>
+**Healthcare Professionals**: <br/>
 Doctors, nurses, and health educators play a critical role in guiding patients to quit smoking. By presenting evidence-based insights into the health benefits of quitting, the story empowers them to advocate for smoke-free living effectively.<br/>
 <br/>
 
