@@ -1,47 +1,50 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+<br/>
+# Ashes to Arteries <br/> 
+## How Smoking Takes a Toll on Your Heart <br/>
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+Please check out my [Shorthand](https://preview.shorthand.com/vu8hdHDRmzgadAs8) preview. <br/>
+The work is in progress and future work (to be done for part III has been mentioned towards the end)<br/>
 
-Text here!
+# User research <br/>
+<br/>
+## Target audience <br/>
+<br/>
+**Major audience**:<br/>
+**Smokers and At-Risk Individuals**: <br/>
+Current smokers and those exposed to secondhand smoke are central to this narrative. Personalizing data through relatable stories and emphasizing the immediate health benefits of quitting will foster engagement and motivation.
+<br/>
+Additional audience:<br/>
+Public Health Officials and Policymakers: <br/>
+These individuals are key decision-makers who can implement anti-smoking legislation, fund public health campaigns, and allocate resources for cessation programs. Highlighting statistical trends and health outcomes will underscore the urgency of continued policy support.<br/>
+<br/>
+Healthcare Professionals: <br/>
+Doctors, nurses, and health educators play a critical role in guiding patients to quit smoking. By presenting evidence-based insights into the health benefits of quitting, the story empowers them to advocate for smoke-free living effectively.<br/>
+<br/>
 
-# User research 
-
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
-
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+## Interview script <br/>
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|Assess the clarity and impact of the visualizations|Do you find the visualizations clear and easy to understand? Which one stood out the most and why?|
+|Evaluate how well the story flows from one point to another|Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt?|
+|Determine if the story effectively highlights the key message|Do you feel the story effectively conveys the dangers of smoking and its impact on heart health? What part of the story was most impactful?|
+|Gather feedback on emotional and motivational appeal|Did the presentation evoke any emotions or motivate you to think differently about smoking and its effects? If so, how?|
+|Collect suggestions for improvement|What suggestions do you have to improve the presentation or make the story more compelling and actionable?|
+<br/>
 
-
-Text here!
-
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
+## Interview findings <br/>
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|Do you find the visualizations clear and easy to understand? Which one stood out the most and why?| Insightful feedback            |             |             |
+|Does the story flow logically from one visualization to the next? Were any transitions confusing or abrupt?|                                |             |             |
+|Do you feel the story effectively conveys the dangers of smoking and its impact on heart health? What part of the story was most impactful?|                                |             |             |
+|Did the presentation evoke any emotions or motivate you to think differently about smoking and its effects? If so, how?||||
+|What suggestions do you have to improve the presentation or make the story more compelling and actionable?||||
 
-
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+<br/>
+# Identified changes for Part III <br/>
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -50,13 +53,6 @@ Text here!
 |                                          |                                                                                 |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
+<br/>
 
-> ...include any final thoughts you have here. 
-
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
