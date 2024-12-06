@@ -3,7 +3,7 @@
 # The final data story
 [Ashes to Arteries - Effects of Smoking on the Heart](https://carnegiemellon.shorthandstories.com/ashes-to-arteries/index.html)
 
-# Changes made since Part II <br/>
+## Changes made since Part II <br/>
 I completely redefined the narrative, making it more compelling and persuasive. To create a stronger emotional impact, I included images that vividly illustrate the harmful effects of smoking on the heart. These visuals are designed to evoke a visceral reaction, encouraging viewers to consider quitting.<br/>
 
 Additionally, I incorporated new paragraphs emphasizing the importance of maintaining a lower heart rate and healthier cholesterol levels for overall cardiovascular well-being. To make the story more relatable and inspiring, I added real-world examples of celebrities who successfully quit smoking, showcasing their journey and the positive impact it had on their lives.<br/>
@@ -13,29 +13,29 @@ Lastly, I introduced a more definitive and actionable call to action. This secti
 ## The audience <br/>
 I identified the target audience as my close friends and peers in Pennsylvania who smoke a lot. Also individuals in the U.S., particularly smokers or those at risk of smoking-related health issues, as well as their close friends and peers who may influence their decisions. The insights I gathered from the interviews were instrumental in refining my approach to reach this audience effectively. <br/>
 
-Insights from Interviews and Personas <br/>
+### Insights from Interviews and Personas <br/>
 
 The feedback from the interviews highlighted the importance of clarity and emotional resonance in the visualizations. For example:<br/>
 
-One interviewee found the visualization of smoking's impact on heart rate the most striking due to its clear depiction of the direct harm caused by smoking.<br/>
-Another appreciated the positive message of a visualization showing a decline in smoking rates, which made the narrative feel hopeful and forward-looking.<br/>
-These insights helped me focus on creating a balanced story that not only emphasizes the dangers of smoking but also provides a sense of optimism about quitting and recovery.<br/>
+- One interviewee found the visualization of smoking's impact on heart rate the most striking due to its clear depiction of the direct harm caused by smoking.<br/>
+- Another appreciated the positive message of a visualization showing a decline in smoking rates, which made the narrative feel hopeful and forward-looking.<br/>
+- These insights helped me focus on creating a balanced story that not only emphasizes the dangers of smoking but also provides a sense of optimism about quitting and recovery.<br/>
 
-Adjustments for the Audience<br/>
+### Adjustments for the Audience<br/>
 
-Emotional Engagement:<br/>
+- Emotional Engagement:<br/>
 I added visuals that not only inform but evoke strong emotional responses. For instance, using images of the impact of smoking on the heart aims to create a visceral reaction that encourages quitting.<br/>
 
-Relatable Examples:<br/>
+- Relatable Examples:<br/>
 Incorporating real-world examples of celebrities who quit smoking made the story more relatable and inspiring for the audience. These stories showcase the tangible benefits of quitting, making it feel achievable.<br/>
 
-Actionable Steps:<br/>
+- Actionable Steps:<br/>
 Based on feedback, I included a clear and actionable call to action with practical steps and resources for quitting smoking. This adjustment ensures the story is not just informative but also empowering.<br/>
 
-Personalization:<br/>
+- Personalization:<br/>
 Following suggestions, I added personal testimonials and stories from people who successfully quit smoking. These narratives help personalize the message and make the content more engaging for peers and close friends.<br/>
 
-Conciseness:<br/>
+- Conciseness:<br/>
 To address feedback about maintaining engagement, I shortened some sections and ensured a logical flow between visualizations, minimizing the risk of abrupt transitions.<br/>
 
 These changes ensure the data story resonates deeply with the target audience, motivating them to take action while providing a hopeful outlook on quitting smoking and improving heart health.<br/>
