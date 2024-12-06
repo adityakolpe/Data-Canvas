@@ -1,5 +1,5 @@
 | [home page](https://adityakolpe.github.io/Data-Canvas/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-<br/>
+
 # Ashes to Arteries 
 ## How Smoking Takes a Toll on Your Heart
 
