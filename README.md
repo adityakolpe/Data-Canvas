@@ -27,13 +27,13 @@ All the things - obviously. Maybe I want to make a list of all the things.  If s
 
 # Portfolio
 
-## [Visualizing overnment Debt](visualizing-government-debt) <br/>
+## [Visualizing overnment Debt](visualizing-government-debt)
 This project explores global debt-to-GDP ratios using web-based tools and Tableau to create engaging visualizations. It critiques and enhances traditional methods by calculating each country's percentage contribution to global debt-to-GDP and displaying it with stacked bar charts. Highlighting countries with contributions over 5% provides insights into both absolute and relative changes, offering a clear and detailed narrative about global debt distribution over time.<br/>
-
-## [Critique by Design](critique-by-design) <br/>
+<br/>
+## [Critique by Design](critique-by-design)
 This visualization provides a comprehensive guide to finding affordable pizza in NYC by improving on an existing visualization. It critiques the original design, addressing issues like the lack of updated pricing and unclear location markers, and enhances it with interactive features, trend analysis, and intuitive color coding for price comparisons. The redesigned dashboard offers a map to locate pizza spots, a sortable table of prices, and trend lines showing price changes over time, creating a user-friendly and data-rich experience for pizza enthusiasts. <br/>
-
-## [Final project](final-project-part-three) <br/>
+<br/>
+## [Final project](final-project-part-three)
 
 While the effects of smoking on the lungs are widely recognized, this project shifts the focus to highlight its impact on the heart. It features crucial visualizations, powerful imagery, a compelling narrative, relatable real-world examples, and a clear, actionable call to action to inspire change. <br/>
 
